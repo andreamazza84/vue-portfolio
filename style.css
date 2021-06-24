@@ -1,0 +1,16 @@
+/*Colors*/
+/*navbar #c4d2ddee */
+/* complementary #ddcfc4ee */
+/*triadic button #D2DDC4*/
+
+#about-me{
+  /* background-color: #171718; */
+  color: white;
+}
+#features, #blog{
+  background-color: #DDC4D2ee;
+}
+#footer{
+    background-color: #c4d2ddee;
+    color: #171718;
+}
